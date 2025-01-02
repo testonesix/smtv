@@ -5,7 +5,7 @@
       "name": "群:739082340",
       "type": 1,
       "api": "http://103.23.148.72:1299/api.php/provide/vod/?ac=list",
-      "playUrl": "json:http://110.40.42.228:1299/api/?key=a2d64be83cb29677720ea7d5109ea481&url=",
+      "playUrl": "json:http://110.40.42.228:1299/api/?key=a2d4be83cb29677720ea7d5109ea481&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
